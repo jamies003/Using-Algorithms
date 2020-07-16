@@ -1,1 +1,1 @@
-Using Basic Algorithms
+Using Basic functions & Algorithms
