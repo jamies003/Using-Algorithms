@@ -6,6 +6,7 @@ function truncateString(str, num) {
   if (truncate > num) {
     return str.slice(0, num) + "...";
 
+
   } else {
     return str;
   }
